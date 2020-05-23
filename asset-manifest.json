@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-typeScript-website/static/css/main.72cfdbc2.chunk.css",
+    "main.js": "/react-typeScript-website/static/js/main.ae3d2666.chunk.js",
+    "main.js.map": "/react-typeScript-website/static/js/main.ae3d2666.chunk.js.map",
+    "runtime-main.js": "/react-typeScript-website/static/js/runtime-main.02d50b49.js",
+    "runtime-main.js.map": "/react-typeScript-website/static/js/runtime-main.02d50b49.js.map",
+    "static/js/2.7bbc52ca.chunk.js": "/react-typeScript-website/static/js/2.7bbc52ca.chunk.js",
+    "static/js/2.7bbc52ca.chunk.js.map": "/react-typeScript-website/static/js/2.7bbc52ca.chunk.js.map",
+    "index.html": "/react-typeScript-website/index.html",
+    "precache-manifest.ca8bd3f6f7a2e7acebed3bfeda9f8b55.js": "/react-typeScript-website/precache-manifest.ca8bd3f6f7a2e7acebed3bfeda9f8b55.js",
+    "service-worker.js": "/react-typeScript-website/service-worker.js",
+    "static/css/main.72cfdbc2.chunk.css.map": "/react-typeScript-website/static/css/main.72cfdbc2.chunk.css.map",
+    "static/js/2.7bbc52ca.chunk.js.LICENSE.txt": "/react-typeScript-website/static/js/2.7bbc52ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02d50b49.js",
+    "static/js/2.7bbc52ca.chunk.js",
+    "static/css/main.72cfdbc2.chunk.css",
+    "static/js/main.ae3d2666.chunk.js"
+  ]
+}
